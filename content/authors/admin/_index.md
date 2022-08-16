@@ -6,7 +6,7 @@ title: Yuchen Sun
 superuser: true
 
 # Role/position/tagline
-role: PhD Student of Computer Science
+role: CS Ph.D Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
