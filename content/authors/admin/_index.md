@@ -74,4 +74,4 @@ My research interest lies in Computer Graphics, especially in Physical Simulatio
 
 I love animations and video games. I sincerely hope that I can contribute to CG movies and animations in the future.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
