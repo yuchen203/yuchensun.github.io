@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuchen Sun
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Dartmouth College
+    url: https://home.dartmouth.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,8 +70,12 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there, I'm Yuchen! 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a first-year PhD student at Dartmouth College, advised by Prof. [Bo Zhu](https://cs.dartmouth.edu/~bozhu/). Before coming to Dartmouth, I obtained my B.S. from Turing Class, Peking University. I was fortunate to work with Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/) during my undergraduate research. 
+
+My research interest lies in Computer Graphics, especially in Physical Simulation. My main focus is to develop high-performance and high-fidelity numerical algorithms to solve computational challenges associated with various kinds of physical systems.
+
+I love animations and video games. I sincerely hope that I can contribute to CG movies and animations in the future.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
