@@ -56,8 +56,6 @@ email: ''
 highlight_name: true
 ---
 
-Hi there, I'm Yuchen! 
-
 I'm a first-year PhD student at Dartmouth College, advised by Prof. [Bo Zhu](https://cs.dartmouth.edu/~bozhu/). Before coming to Dartmouth, I obtained my BSc from Turing Class, Peking University. I was fortunate to work with Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/) during my undergraduate research. 
 
 My research interest lies in Computer Graphics, especially in Physical Simulation. My main focus is to develop high-performance and high-fidelity numerical algorithms to solve computational challenges associated with various kinds of physical systems.
