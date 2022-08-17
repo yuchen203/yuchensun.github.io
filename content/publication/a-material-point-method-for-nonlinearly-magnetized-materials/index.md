@@ -41,7 +41,7 @@ image:
   focal_point: ''
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: Video
+  url: https://www.youtube.com/watch?v=2zqJ1wvverA&t=3s
 date: 2021-12-01T00:00:00Z
 ---
