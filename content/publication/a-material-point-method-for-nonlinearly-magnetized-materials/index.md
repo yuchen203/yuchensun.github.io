@@ -18,7 +18,7 @@ date: '2021-12-01T00:00:00Z'
 draft: false
 featured: true
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
