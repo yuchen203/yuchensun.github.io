@@ -8,6 +8,12 @@ authors:
   - Bo Zhu
   - Bin Wang
   - Baoquan chen
+author_notes:
+  - 'Equal Contribution'
+  - 'Equal Contribution'
+  - ''
+  - ''
+  - 'Corresponding Author'
 draft: false
 featured: true
 image:
