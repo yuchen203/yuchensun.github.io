@@ -18,8 +18,7 @@ date: '2021-12-01T00:00:00Z'
 draft: false
 featured: true
 image:
-  filename: mag_mpm.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2022-08-17T01:45:52.191Z
 ---
