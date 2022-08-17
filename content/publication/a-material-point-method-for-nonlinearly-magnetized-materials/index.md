@@ -9,16 +9,16 @@ authors:
   - Bin Wang
   - Baoquan Chen
 author_notes:
-  - 'Equal Contribution'
-  - 'Equal Contribution'
-  - ''
-  - ''
-  - 'Corresponding Author'
-date: '2021-12-01T00:00:00Z'
+  - Equal Contribution
+  - Equal Contribution
+  - ""
+  - ""
+  - Corresponding Author
 draft: false
 featured: true
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
+date: 2021-12-01T00:00:00Z
 ---
