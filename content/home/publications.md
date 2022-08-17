@@ -34,7 +34,6 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
-url_video: 'https://www.youtube.com/watch?v=2zqJ1wvverA'
 ---
 
 {{% callout note %}}
