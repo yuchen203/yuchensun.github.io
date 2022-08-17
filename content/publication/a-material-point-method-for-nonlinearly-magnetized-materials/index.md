@@ -14,6 +14,9 @@ author_notes:
   - ""
   - ""
   - Corresponding Author
+# Publication name and optional abbreviated publication name.
+publication: SIGGRAPH Asia 2021, ACM Transactions on Graphics (TOG)
+publication_short: SIGGRAPH Asia 2021, ACM Transactions on Graphics (TOG)
 draft: false
 featured: true
 image:
