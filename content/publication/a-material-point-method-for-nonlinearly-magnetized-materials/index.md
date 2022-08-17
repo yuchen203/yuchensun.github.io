@@ -1,8 +1,13 @@
 ---
 title: A Material Point Method for Nonlinearly Magnetized Materials
 publication_types:
-  - "0"
-authors: []
+  - "2"
+authors:
+  - Yuchen Sun
+  - Xingyu Ni
+  - Bo Zhu
+  - Bin Wang
+  - Baoquan chen
 draft: false
 featured: true
 image:
