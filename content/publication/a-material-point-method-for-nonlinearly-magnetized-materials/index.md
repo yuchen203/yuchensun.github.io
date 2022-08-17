@@ -22,6 +22,6 @@ featured: true
 image:
   filename: featured.png
   focal_point: Center
-  preview_only: true
+  preview_only: false
 date: 2021-12-01T00:00:00Z
 ---
