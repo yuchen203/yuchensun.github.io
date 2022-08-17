@@ -44,6 +44,6 @@ links:
 - name: Video
   url: https://www.youtube.com/watch?v=2zqJ1wvverA&t=3s
 - name: PDF
-  url: https://yuchensun.netlify.app/static/uploads/magnetic_mpm.pdf
+  url: https://yuchensun.netlify.app/uploads/magnetic_mpm.pdf
 date: 2021-12-01T00:00:00Z
 ---
